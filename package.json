@@ -8,5 +8,11 @@
   "dependencies": {
     "express": "^4.17.1",
     "mime": "^2.4.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
