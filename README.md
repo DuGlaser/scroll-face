@@ -7,6 +7,7 @@ READMEで動くbadgeを作りたかったので作った
 $ git clone git@github.com:DuGlaser/scroll-face.git
 $ cd scroll-face
 $ yarn
+$ yarn start
 ```
 
 ## Structure
