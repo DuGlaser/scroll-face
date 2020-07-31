@@ -7,12 +7,12 @@ READMEで動くbadgeを作りたかったので作った
 $ git clone git@github.com:DuGlaser/scroll-face.git
 $ cd scroll-face
 $ yarn
-$ yarn start
+$ node index.js
 ```
 
 ## Structure
 ```
-├── public/ // このディレクトリ以下のファイルが配信されます
+├── views/ // このディレクトリ以下のファイルが配信されます
 │   
 └── server.js // expressでのserverです
 ```
