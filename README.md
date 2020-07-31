@@ -14,7 +14,7 @@ $ node index.js
 ```
 ├── views/ // このディレクトリ以下のファイルが配信されます
 │   
-└── server.js // expressでのserverです
+└── .js // expressでのserverです
 ```
 
 ## Licence
