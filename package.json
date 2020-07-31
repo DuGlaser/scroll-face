@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:DuGlaser/scroll-face.git",
   "author": "DuGlaser <duglaser0618@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mime": "^2.4.6"
+  }
 }
